@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/github" android:title="GitHub" android:icon="@mipmap/my_github"/>
+    <item android:id="@+id/csdn" android:title="CSDN" android:icon="@mipmap/my_csdn"/>
+    <item android:id="@+id/jianshu" android:title="简书" android:icon="@mipmap/my_jianshu"/>
+    <item android:id="@+id/io" android:title="GitHub.io" android:icon="@mipmap/icon_user" />
+    <item android:id="@+id/shezhi" android:title="设置" android:icon="@mipmap/icon_setting" />
+    <item android:id="@+id/guanyu" android:title="关于" android:icon="@mipmap/icon_about" />
+    <item android:id="@+id/set" android:title="GitHub.io" android:icon="@mipmap/icon_setting" />
+
+</menu>
